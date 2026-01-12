@@ -5,3 +5,5 @@ System Admin tickets throughout my career.
 
 <details>
 <summary> 1. Deploy a new CentOS 9 Virtual Machine on Vsphere </summary>
+
+<code style="white-space: pre-wrap;">TASK: The Infrastructure Team is requesting a new CentOS 9 Virtual Machine (VM) to launch a new product for the software development team. Please use the naming convention in the requirements section below. Ensure VM details are added to the asset tiger inventory tool.</code>
