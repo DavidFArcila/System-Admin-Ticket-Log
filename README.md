@@ -16,6 +16,9 @@ System Admin tickets throughout my career involving incident-management, user-ac
 **STEPS TAKEN:**
 </details>
 
+
+
+
 <details>
 <summary> Identity Management/FreeIPA </summary>
 
