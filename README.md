@@ -6,7 +6,7 @@ System Admin tickets throughout my career involving incident-management, user-ac
 > Note: Some information has been altered or redacted for security purposes.
 
 <details>
-<summary> VMware vSphere-Vm Manangement </summary>
+<summary> VM-Manangement/VMware vSphere </summary>
 
 <details>
   <summary> 1. Deploy a new CentOS 9 Virtual Machine on Vsphere </summary>
@@ -16,3 +16,15 @@ System Admin tickets throughout my career involving incident-management, user-ac
 **STEPS TAKEN:**
 
 <details>
+
+<details>
+<summary> Identity Management/FreeIPA </summary>
+
+<details>
+
+<details>
+<summary> File Sharing/NFS Mounts </summary>
+
+<details>
+
+
