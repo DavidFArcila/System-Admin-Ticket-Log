@@ -22,6 +22,12 @@ System Admin tickets throughout my career involving incident-management, user-ac
 <summary> Identity Management/FreeIPA </summary>
 
 </details>
+
+<details>
+<summary> File Sharing/NFS Mounts </summary>
+
+</details>
+
   
 
 
