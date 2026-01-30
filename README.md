@@ -5,9 +5,6 @@ System Admin tickets throughout my career involving incident-management, user-ac
 
 > Note: Some information has been altered or redacted for security purposes.
 
-# sysadmin-ticket-log
-
-
 <details>
 <summary> 1. Deploy a new CentOS 9 Virtual Machine on Vsphere </summary>
 
